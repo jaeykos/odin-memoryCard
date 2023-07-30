@@ -1,0 +1,11 @@
+.images {
+  max-width: 100%;
+  height: 16rem;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+  .containerDiv {
+    background-color: lightblue;
+  }
+}
